@@ -3,36 +3,68 @@
   "WorkspaceRootPath": "E:\\marvel rivals\\survivor3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\axebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\axebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\throwaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\throwaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|e:\\marvel rivals\\survivor3d\\assets\\tubatai games\\simple 3d sword and axe free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\tubatai games\\simple 3d sword and axe free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\gunshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|e:\\marvel rivals\\survivor3d\\assets\\scenes\\scripts\\gunshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\gunshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\fpslimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\fpslimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE92F2A-86DC-AF61-0F12-7DCE1FD8D97D}|Assembly-CSharp-Editor.csproj|E:\\marvel rivals\\survivor3D\\assets\\kinemation\\sightsaligner\\editor\\coreanimcomponenteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE92F2A-86DC-AF61-0F12-7DCE1FD8D97D}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\kinemation\\sightsaligner\\editor\\coreanimcomponenteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\marvel rivals\\survivor3D\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\kinemation\\sightsaligner\\coreanimcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\kinemation\\sightsaligner\\coreanimcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\kinemation\\sightsaligner\\targetaimdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\kinemation\\sightsaligner\\targetaimdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\tubatai games\\simple 3d sword and axe free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\tubatai games\\simple 3d sword and axe free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\marvel rivals\\survivor3D\\Assets\\navmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\navmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|E:\\marvel rivals\\survivor3D\\assets\\scenes\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E3C933-07D2-9E0C-A20D-7914C71B85C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ThrowAxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Scripts\\ThrowAxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Scripts\\GunFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +74,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPSLimiter.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\FPSLimiter.cs",
+              "RelativeDocumentMoniker": "Assets\\FPSLimiter.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\FPSLimiter.cs",
+              "RelativeToolTip": "Assets\\FPSLimiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:51:11.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Zombie.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Zombie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:35:13.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TargetAimData.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Kinemation\\SightsAligner\\TargetAimData.cs",
+              "RelativeDocumentMoniker": "Assets\\Kinemation\\SightsAligner\\TargetAimData.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Kinemation\\SightsAligner\\TargetAimData.cs",
+              "RelativeToolTip": "Assets\\Kinemation\\SightsAligner\\TargetAimData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:57:24.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GunShoot.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\GunShoot.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunShoot.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\GunShoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:46:25.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinDrawer.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "RelativeToolTip": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:10:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoreAnimComponentEditor.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Kinemation\\SightsAligner\\Editor\\CoreAnimComponentEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Kinemation\\SightsAligner\\Editor\\CoreAnimComponentEditor.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Kinemation\\SightsAligner\\Editor\\CoreAnimComponentEditor.cs",
+              "RelativeToolTip": "Assets\\Kinemation\\SightsAligner\\Editor\\CoreAnimComponentEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:16:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GunFollow.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\GunFollow.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunFollow.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\GunFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:38:37.277Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ZombieAI.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ZombieAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:05:16.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "readme.txt",
               "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\tubatai games\\Simple 3D Sword and Axe Free\\readme.txt",
               "RelativeDocumentMoniker": "Assets\\tubatai games\\Simple 3D Sword and Axe Free\\readme.txt",
@@ -54,50 +182,11 @@
               "RelativeToolTip": "Assets\\tubatai games\\Simple 3D Sword and Axe Free\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-12T08:16:35.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:16:35.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AxeBehaviour.cs",
-              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\AxeBehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\AxeBehaviour.cs",
-              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\AxeBehaviour.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\AxeBehaviour.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T06:53:30.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ThrowAxe.cs",
-              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ThrowAxe.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ThrowAxe.cs",
-              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ThrowAxe.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ThrowAxe.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T06:50:27.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CameraShake.cs",
-              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\CameraShake.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CameraShake.cs",
-              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\CameraShake.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CameraShake.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T06:18:58.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\EnemyHealth.cs",
@@ -109,31 +198,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GunShoot.cs",
-              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunShoot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\GunShoot.cs",
-              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\GunShoot.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\GunShoot.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CoreAnimComponent.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Kinemation\\SightsAligner\\CoreAnimComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Kinemation\\SightsAligner\\CoreAnimComponent.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Kinemation\\SightsAligner\\CoreAnimComponent.cs",
+              "RelativeToolTip": "Assets\\Kinemation\\SightsAligner\\CoreAnimComponent.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAIBJwCoBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T21:46:25.086Z"
+              "WhenOpened": "2026-03-12T20:59:55.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\PlayerMovement.cs",
               "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scenes\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T21:17:39.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "navmesh.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\navmesh.cs",
+              "RelativeDocumentMoniker": "Assets\\navmesh.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\navmesh.cs",
+              "RelativeToolTip": "Assets\\navmesh.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:43:48.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThrowAxe.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ThrowAxe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ThrowAxe.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\ThrowAxe.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ThrowAxe.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:50:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CameraShake.cs",
+              "ToolTip": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CameraShake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:18:58.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MouseLook.cs",
               "DocumentMoniker": "E:\\marvel rivals\\survivor3D\\Assets\\Scenes\\Scripts\\MouseLook.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\MouseLook.cs",
